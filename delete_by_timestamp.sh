@@ -31,4 +31,4 @@ function drop_from_gcr(){
 }
 
 list
-# drop_from_gcr
+drop_from_gcr
